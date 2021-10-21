@@ -11,6 +11,7 @@ Currently under development.
 ![chrome-capture (8)](https://user-images.githubusercontent.com/11216944/115307765-fb055200-a169-11eb-9203-34b495f538ae.jpg)
 
 ## Setup local environment
+
 ### Clone
 ```
 git clone https://github.com/mrakibmiah/scrumpoker.git
