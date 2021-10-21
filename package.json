@@ -1,0 +1,36 @@
+{
+  "name": "scrum-poker",
+  "version": "5.0.0",
+  "private": true,
+  "dependencies": {
+    "3": "^2.1.0",
+    "@devexpress/dx-react-chart": "^2.7.5",
+    "@devexpress/dx-react-chart-material-ui": "^2.7.5",
+    "@devexpress/dx-react-core": "^2.7.5",
+    "@emotion/cache": "latest",
+    "@emotion/react": "latest",
+    "@emotion/server": "latest",
+    "@emotion/styled": "latest",
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "latest",
+    "clsx": "latest",
+    "jest-worker": "^25.5.0",
+    "next": "latest",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-copy-to-clipboard": "^5.0.3",
+    "react-dom": "latest",
+    "socket.io": "^4.3.1",
+    "socket.io-client": "^4.0.1",
+    "webpack": "^5.33.2"
+  },
+  "scripts": {
+    "dev": "next -p 3005",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
