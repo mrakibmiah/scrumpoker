@@ -7,7 +7,7 @@ export default function Copyright() {
     <Typography variant="body2" color="secondary" align="center">
       {'Copyright © '}
       <MuiLink color="inherit" href="https://fire-fire-stage.cumulus.sebank.se/">
-        @FiReTeam
+        @devCokepit
       </MuiLink>{' '}
       {new Date().getFullYear()}.
     </Typography>
